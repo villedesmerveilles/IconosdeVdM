@@ -1,0 +1,134 @@
+@font-face {
+    font-family: "VdM";
+    src: url("https://cdn.jsdelivr.net/gh/villedesmerveilles/IconosdeVdM@main/VdM.woff") format("woff"),
+        url("https://cdn.jsdelivr.net/gh/villedesmerveilles/IconosdeVdM@main/VdM.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+@font-palette-values --palette0 {
+    font-family: "VdM";
+    base-palette: 0
+}
+.icon, [class^="VdM-"], [class*=" VdM-"] {
+    /* Use !important to prevent extensions from overriding this font. */
+    font-family: "VdM" !important;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+.palette0 {
+    font-palette: --palette0;
+    color: currentColor;
+}
+.VdM-Easter:before {
+    content: "\f000";
+}
+.VdM-christmas:before {
+    content: "\f001";
+}
+.VdM-Celebrite:before {
+    content: "\f008";
+}
+.VdM-CANADADAY:before {
+    content: "\f00f";
+}
+.VdM-winterlude:before {
+    content: "\f010";
+}
+.VdM-Thansgiving:before {
+    content: "\f011";
+}
+.VdM-summer:before {
+    content: "\f012";
+}
+.VdM-Staff:before {
+    content: "\f013";
+}
+.VdM-spring:before {
+    content: "\f014";
+}
+.VdM-SanValentin:before {
+    content: "\f015";
+}
+.VdM-pride:before {
+    content: "\f016";
+}
+.VdM-Patrickday:before {
+    content: "\f017";
+}
+.VdM-ORace:before {
+    content: "\f018";
+}
+.VdM-Mode:before {
+    content: "\f019";
+}
+.VdM-lamp:before {
+    content: "\f01a";
+}
+.VdM-labor-day:before {
+    content: "\f01b";
+}
+.VdM-happy-new-year:before {
+    content: "\f01c";
+}
+.VdM-Halloween:before {
+    content: "\f01d";
+}
+.VdM-festivaltulip:before {
+    content: "\f01e";
+}
+.VdM-familyday:before {
+    content: "\f01f";
+}
+.VdM-fall:before {
+    content: "\f020";
+}
+.VdM-winter:before {
+    content: "\f021";
+}
+.VdM-sante:before {
+    content: "\f022";
+}
+.VdM-history:before {
+    content: "\f023";
+}
+.VdM-flying-money:before {
+    content: "\f00e";
+}
+.VdM-maps:before {
+    content: "\f00d";
+}
+.VdM-rules:before {
+    content: "\f00c";
+}
+.VdM-handcuff:before {
+    content: "\f00b";
+}
+.VdM-canada:before {
+    content: "\f00a";
+}
+.VdM-skull:before {
+    content: "\f002";
+}
+.VdM-office-building:before {
+    content: "\f003";
+}
+.VdM-justice-scale:before {
+    content: "\f004";
+}
+.VdM-insurance:before {
+    content: "\f005";
+}
+.VdM-graduation-hat:before {
+    content: "\f007";
+}
+.VdM-citizens:before {
+    content: "\f009";
+}
